@@ -13,3 +13,9 @@ https://inkscape.org/fr/release/inkscape-0.47/?latest=1
 
 For Board installation I used VS studio.
 So I modify the code (see cpp file)
+
+***
+![alt text](https://github.com/adegard/ESP32_CNC/blob/master/IMG_20201225_184102.jpgraw=true)
+
+Remixed from: https://www.thingiverse.com/thing:4579436
+
