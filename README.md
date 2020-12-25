@@ -12,7 +12,8 @@ https://inkscape.org/fr/release/inkscape-0.47/?latest=1
 ***
 
 For Board installation I used VS studio.
-So I modify the code (see cpp file)
+So I modify the original code:
+Compile and Upload to ES32 board in VS studio: ESP32_CNC.cpp 
 
 ***
 ![alt text](https://github.com/adegard/ESP32_CNC/blob/master/IMG_20201225_184102.jpg?raw=true)
