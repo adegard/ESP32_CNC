@@ -1,5 +1,5 @@
 # ESP32_CNC
-CNC for ESP32 (30 pins) with 28BYJ-48 stepper motor and ULN2003
+CNC for ESP32 (30 pins) with 2 x 28BYJ-48 stepper motor, ULN2003 and 1 servo
 
 
 Prepare file to create gcode:
