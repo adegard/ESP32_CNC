@@ -19,3 +19,8 @@ So I modify the code (see cpp file)
 
 Remixed from: https://www.thingiverse.com/thing:4579436
 
+
+***
+![alt text](https://github.com/adegard/ESP32_CNC/blob/master/CNC_ESP32_28BYJ-48_Schema.png?raw=true)
+***
+![alt text](https://github.com/adegard/ESP32_CNC/blob/master/corrected%20gcode.png?raw=true)
