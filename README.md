@@ -29,3 +29,6 @@ Remixed from: https://www.thingiverse.com/thing:4579436
 (With NC Corrector: delete the full folder path... and save)
 ***
 ![alt text](https://github.com/adegard/ESP32_CNC/blob/master/corrected%20gcode.png?raw=true)
+
+***
+![alt text](https://github.com/adegard/ESP32_CNC/blob/master/Sending%20GCODE%20file%20on%20Processing%20software.png?raw=true)
